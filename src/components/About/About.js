@@ -5,7 +5,7 @@ import "../../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Github from "./Github";
 import Aboutcard from "./AboutCard";
-import myImg from "../../Assets/Memoji-avatar.png";
+import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 
 function About() {

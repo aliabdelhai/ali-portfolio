@@ -5,6 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
+import home from "../../Assets/home-main.svg"
 
 function Home() {
   return (
@@ -26,6 +27,9 @@ function Home() {
               <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />
               </div>
+            </Col>
+            <Col md={5} style={{ paddingBottom: 20 }}>
+              <img src={home} alt="home pic" className="img-fluid" />
             </Col>
 
           </Row>

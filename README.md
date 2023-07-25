@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://main--vermillion-yeot-7281be.netlify.app/" target="_blank">portfolio-ali-abdelhai.herokuapp.com/</a>
+  <a href="https://main--vermillion-yeot-7281be.netlify.app/" target="_blank">portfolio-ali-abdelhai</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readmeImg.png" />
@@ -16,7 +16,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
-My personal portfolio, <a href="https://main--vermillion-yeot-7281be.netlify.app/" target="_blank">portfolio-ali-abdelhai.herokuapp.com/</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio, <a href="https://main--vermillion-yeot-7281be.netlify.app/" target="_blank">portfolio-ali-abdelhai</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
